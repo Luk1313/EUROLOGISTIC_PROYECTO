@@ -78,9 +78,31 @@ La bibliografía completa está disponible en [`bibliografia.md`](./bibliografia
 
 ---
 
-## 🛡️ Licencia
 
-Este proyecto está licenciado bajo la **MIT License** – consulta el archivo [LICENSE](./LICENSE) para más información.
+
+
+
+## 📊 Visualizaciones del Proyecto EUROLOGISTIC
+
+### 🧱 Modelo Tradicional de Desarrollo
+
+![Modelo Tradicional](./modeloTradicional.png)
 
 ---
+
+### 🔁 Modelamiento en V
+
+![Modelamiento en V](./modelamiento_en_V.png)
+
+---
+
+### 🔎 Comparativa de Modelos
+
+![Modelos](./Modelos.png)
+
+---
+
+### ✅ Solución Global Propuesta
+
+![Solución](./Solución.png)
 
